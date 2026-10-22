@@ -1,4 +1,4 @@
-field+RWY;rwy-dir;surface;slope;elevation;TORA;TODA;LDA;wx_field;auto_alternate
+id;hdg;surface;slope;elevation;TORA;TODA;LDA;wx_field;auto_alternate
 EHLE-23;228;hard;0;-12;2000;2060;2100;EHLE;EHTE
 EHLE-05;48;hard;0;-13;1330;1390;2100;EHLE;EHTE
 EHTE-08;85;hard;0;16;1199;1259;1199;EHDL;EHLE
